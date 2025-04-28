@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136739074452",
+    "project_id": "nuitrite",
+    "storage_bucket": "nuitrite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136739074452:android:b6f2cd48b6b2eb79559f81",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqcF_7gEUIF2dxMF19rBofJDoA5kUmqVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
